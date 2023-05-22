@@ -1,0 +1,3 @@
+﻿  Array2Example.cpp
+C:\Users\eriik\source\repos\Array2Example\Array2Example.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Array2Example.vcxproj -> C:\Users\eriik\source\repos\Array2Example\Debug\Array2Example.exe
