@@ -1,0 +1,2 @@
+C:\Users\eriik\source\repos\Arrayexample2\Debug\Arrayexample2.exe
+C:\Users\eriik\source\repos\Arrayexample2\Debug\Arrayexample2.pdb
