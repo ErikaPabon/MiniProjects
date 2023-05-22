@@ -1,0 +1,2 @@
+C:\Users\eriik\source\repos\Filexample\Debug\Filexample.exe
+C:\Users\eriik\source\repos\Filexample\Debug\Filexample.pdb
