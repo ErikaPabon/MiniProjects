@@ -1,0 +1,2 @@
+C:\Users\eriik\source\repos\testscore\Debug\testscore.exe
+C:\Users\eriik\source\repos\testscore\Debug\testscore.pdb

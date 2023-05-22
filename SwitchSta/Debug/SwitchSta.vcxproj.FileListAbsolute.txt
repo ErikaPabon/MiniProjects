@@ -1,0 +1,2 @@
+C:\Users\eriik\source\repos\SwitchSta\Debug\SwitchSta.exe
+C:\Users\eriik\source\repos\SwitchSta\Debug\SwitchSta.pdb

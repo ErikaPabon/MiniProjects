@@ -1,0 +1,3 @@
+﻿  vowels_consonants.cpp
+C:\Users\eriik\source\repos\vowels_consonants\vowels_consonants.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+  vowels_consonants.vcxproj -> C:\Users\eriik\source\repos\vowels_consonants\Debug\vowels_consonants.exe

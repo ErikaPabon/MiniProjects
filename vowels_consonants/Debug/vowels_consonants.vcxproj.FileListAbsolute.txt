@@ -1,0 +1,2 @@
+C:\Users\eriik\source\repos\vowels_consonants\Debug\vowels_consonants.exe
+C:\Users\eriik\source\repos\vowels_consonants\Debug\vowels_consonants.pdb

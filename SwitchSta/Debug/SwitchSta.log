@@ -1,0 +1,3 @@
+﻿  SwitchSta.cpp
+C:\Users\eriik\source\repos\SwitchSta\SwitchSta.cpp(12,12): warning C4101: 'y': unreferenced local variable
+  SwitchSta.vcxproj -> C:\Users\eriik\source\repos\SwitchSta\Debug\SwitchSta.exe
