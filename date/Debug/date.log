@@ -1,0 +1,3 @@
+﻿  date.cpp
+C:\Users\eriik\source\repos\date\date.cpp(51,17): warning C4834: discarding return value of function with 'nodiscard' attribute
+  date.vcxproj -> C:\Users\eriik\source\repos\date\Debug\date.exe

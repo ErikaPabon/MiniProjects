@@ -1,0 +1,3 @@
+﻿  changeamount.cpp
+C:\Users\eriik\source\repos\changeamount\changeamount.cpp(19,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  changeamount.vcxproj -> C:\Users\eriik\source\repos\changeamount\Debug\changeamount.exe

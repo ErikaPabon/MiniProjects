@@ -1,0 +1,3 @@
+﻿  changecalculator.cpp
+C:\Users\eriik\source\repos\changecalculator\changecalculator.cpp(24,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  changecalculator.vcxproj -> C:\Users\eriik\source\repos\changecalculator\Debug\changecalculator.exe

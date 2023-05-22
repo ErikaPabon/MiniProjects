@@ -1,0 +1,12 @@
+﻿  change2.cpp
+C:\Users\eriik\source\repos\change2\change2.cpp(20,13): error C2086: 'int paidamount': redefinition
+C:\Users\eriik\source\repos\change2\change2.cpp(11): message : see declaration of 'paidamount'
+C:\Users\eriik\source\repos\change2\change2.cpp(22,13): error C2086: 'int dollar': redefinition
+C:\Users\eriik\source\repos\change2\change2.cpp(12): message : see declaration of 'dollar'
+C:\Users\eriik\source\repos\change2\change2.cpp(24,13): error C2086: 'int quarter': redefinition
+C:\Users\eriik\source\repos\change2\change2.cpp(12): message : see declaration of 'quarter'
+C:\Users\eriik\source\repos\change2\change2.cpp(28,13): error C2086: 'int nickels': redefinition
+C:\Users\eriik\source\repos\change2\change2.cpp(12): message : see declaration of 'nickels'
+C:\Users\eriik\source\repos\change2\change2.cpp(30,13): error C2086: 'int pennies': redefinition
+C:\Users\eriik\source\repos\change2\change2.cpp(12): message : see declaration of 'pennies'
+C:\Users\eriik\source\repos\change2\change2.cpp(34,124): error C2059: syntax error: ';'
