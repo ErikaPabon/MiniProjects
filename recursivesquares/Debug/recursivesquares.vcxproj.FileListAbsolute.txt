@@ -1,0 +1,2 @@
+C:\Users\eriik\source\repos\recursivesquares\Debug\recursivesquares.exe
+C:\Users\eriik\source\repos\recursivesquares\Debug\recursivesquares.pdb
