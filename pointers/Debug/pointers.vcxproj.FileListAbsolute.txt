@@ -1,0 +1,2 @@
+C:\Users\eriik\source\repos\pointers\Debug\pointers.exe
+C:\Users\eriik\source\repos\pointers\Debug\pointers.pdb
