@@ -1,0 +1,2 @@
+C:\Users\eriik\source\repos\squares_squares\Debug\squares_squares.exe
+C:\Users\eriik\source\repos\squares_squares\Debug\squares_squares.pdb

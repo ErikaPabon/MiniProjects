@@ -1,0 +1,4 @@
+﻿  stars.cpp
+C:\Users\eriik\source\repos\stars\stars.cpp(22,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\eriik\source\repos\stars\stars.cpp(26,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  stars.vcxproj -> C:\Users\eriik\source\repos\stars\Debug\stars.exe

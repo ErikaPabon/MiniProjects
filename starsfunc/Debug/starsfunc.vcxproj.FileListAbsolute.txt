@@ -1,0 +1,2 @@
+C:\Users\eriik\source\repos\starsfunc\Debug\starsfunc.exe
+C:\Users\eriik\source\repos\starsfunc\Debug\starsfunc.pdb
